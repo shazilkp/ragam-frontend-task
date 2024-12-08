@@ -26,3 +26,4 @@ This is a frontend task for the **Ragam '25 Tech Team Induction**, showcasing a 
 1. Clone the repository:
    ```bash
    git clone https://github.com/shazilkp/ragam-frontend-task.git
+2. Open with live server
